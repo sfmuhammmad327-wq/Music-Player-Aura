@@ -5,6 +5,28 @@ Welcome to **AURA ENGINE**, a premium, client-side glassmorphic music streaming 
 ✨ **Developed by Sai The Limited** > 
 ---
 
+## 📥 Installation & Setup
+
+You can download and run this web app locally on your machine via the command line. Open your terminal or Git Bash and execute the following block:
+
+```bash
+# 1. Clone the repository from GitHub
+git clone [https://github.com/sfmuhammmad327-wq/music-player-aura.git](https://github.com/sfmuhammmad327-wq/music-player-aura.git)
+
+# 2. Navigate into the project folder
+cd music-player-aura
+
+# 3. Launch the app instantly in your default browser
+# For Windows:
+start index.html
+
+# For Mac:
+open index.html
+
+# For Linux:
+xdg-open index.html
+```
+
 ## 🚀 Key Features
 
 * **Visualizer Aura Suite:** Dynamic digital rain, responsive audio spike towers, expanding neon cube particles, and rhythmic beat-popping cover art animations.
